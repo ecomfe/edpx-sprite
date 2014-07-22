@@ -1,0 +1,28 @@
+{
+  "name": "edpx-sprite",
+  "version": "0.0.1",
+  "description": "edp user command `edp sprite`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecomfe/edpx-sprite.git"
+  },
+  "keywords": [
+    "edp",
+    "css",
+    "sprite"
+  ],
+  "dependencies": {
+    "edp-core": ">=1.0.12",
+    "ispriter": "~0.3.9"
+  },
+  "author": "osdream.song@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edpx-sprite/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edpx-sprite"
+}

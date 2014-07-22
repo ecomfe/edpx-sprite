@@ -1,6 +1,5 @@
-edpx-sprite
-=========
-
+sprite
+---------
 ### Usage
 
     edp sprite # 当前目录
